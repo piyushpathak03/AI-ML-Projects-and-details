@@ -2,7 +2,7 @@
 
 ## Installation
 ```
-$ git clone https://github.com/sharmapratik88/AIML-Projects.git
+$ git clone https://github.com/piyushpathak03/AI-ML-Projects-and-details.git
 $ cd AIML-Projects
 ```
 
@@ -33,7 +33,7 @@ $ cd AIML-Projects
       - **Project link:** [Ensemble Technique](https://github.com/piyushpathak03/AI-ML-Projects-and-details/blob/main/03_Ensemble%20Techniques/03_Ensemble%20Techniques.ipynb)
          - Leveraged customer information of bank marketing campaigns to predict whether a customer will subscribe to term deposit or not. Different classification algorithms like Decision tree, Logistic Regression were used. Ensemble techniques like Random forest were used to further improve the classification results.
         
-        * ***[Decision Tree](https://github.com/piyushpathak03/AI-ML-Projects-and-details/tree/main/03_Ensemble%20Techniques/images/dtree.png)***
+        * ***[Decision Tree](https://github.com/piyushpathak03/AI-ML-Projects-and-details/blob/main/03_Ensemble%20Techniques/images/dtree.png)***
         * ***[Random Forest](https://github.com/piyushpathak03/AI-ML-Projects-and-details/tree/main/03_Ensemble%20Techniques/images/rforest.png)***
         * ***[Model Scores](https://github.com/piyushpathak03/AI-ML-Projects-and-details/tree/main/03_Ensemble%20Techniques/images/scores.PNG)***
         ![Scores](https://github.com/piyushpathak03/AI-ML-Projects-and-details/tree/main/03_Ensemble%20Techniques/images/scores.PNG)
